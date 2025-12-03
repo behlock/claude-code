@@ -1,0 +1,10 @@
+{
+  "name": "tmux-notifications",
+  "description": "Send tmux notifications when agents complete or require input",
+  "version": "1.0.0",
+  "author": {
+    "name": "Walid Behlock",
+    "email": "behlocks@gmail.com"
+  },
+  "keywords": ["tmux", "notifications", "agents", "terminal"]
+}
